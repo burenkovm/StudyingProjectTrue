@@ -8,10 +8,10 @@ public class Program {
         {
             if (i % 2 == 1)
             {
-                evenNumbers.increment();
+                evenNumbers.increace();
             }
             else {
-                oddNumbers.increment();
+                oddNumbers.increace();
             }
         }
         evenNumbers.info();
