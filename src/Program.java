@@ -3,7 +3,6 @@ public class Program {
     {
         Counter evenNumbers = new Counter("Четные числа");
         Counter oddNumbers = new Counter("Нечетные числа");
-
         for(int i = 1; i<= 100; i++)
         {
             if (i % 2 == 1)

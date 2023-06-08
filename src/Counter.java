@@ -10,6 +10,7 @@ public class Counter {
         this.name = name;
         this.count = count;
     }
+
     public void increace()
     {
         this.count++;
